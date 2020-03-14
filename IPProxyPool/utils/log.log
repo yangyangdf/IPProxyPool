@@ -1,0 +1,4 @@
+2020-03-06 15:42:55 log.py [line:54] INFO: 状态信息
+2020-03-06 15:42:55 log.py [line:55] WARNING: 警告信息
+2020-03-06 15:42:55 log.py [line:56] ERROR: 错误信息
+2020-03-06 15:42:55 log.py [line:57] CRITICAL: 严重错误信息

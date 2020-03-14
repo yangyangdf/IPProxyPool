@@ -1,0 +1,299 @@
+2020-03-11 13:48:21 httpbin_validator.py [line:57] INFO: {'ip': '122.51.70.36', 'port': '8080', 'protocol': -1, 'nick_type': -1, 'speed': -1, 'area': '广东省广州市', 'score': 50, 'disable_domains': []}
+2020-03-11 13:48:21 httpbin_validator.py [line:57] INFO: {'ip': '183.147.11.34', 'port': '8118', 'protocol': -1, 'nick_type': -1, 'speed': -1, 'area': '浙江金华', 'score': 50, 'disable_domains': []}
+2020-03-11 13:48:22 httpbin_validator.py [line:57] INFO: {'ip': '180.118.252.180', 'port': '8118', 'protocol': -1, 'nick_type': -1, 'speed': -1, 'area': '江苏镇江', 'score': 50, 'disable_domains': []}
+2020-03-11 13:48:23 httpbin_validator.py [line:57] INFO: {'ip': '171.80.196.14', 'port': '8118', 'protocol': 0, 'nick_type': 0, 'speed': 0.6, 'area': '', 'score': 50, 'disable_domains': []}
+2020-03-11 13:48:25 httpbin_validator.py [line:57] INFO: {'ip': '118.78.196.186', 'port': '8118', 'protocol': -1, 'nick_type': -1, 'speed': -1, 'area': '山西运城', 'score': 50, 'disable_domains': []}
+2020-03-11 13:48:28 httpbin_validator.py [line:57] INFO: {'ip': '200.89.178.196', 'port': '80', 'protocol': 0, 'nick_type': 2, 'speed': 4.0, 'area': '阿根廷', 'score': 50, 'disable_domains': []}
+2020-03-11 13:48:31 httpbin_validator.py [line:57] INFO: {'ip': '163.172.219.130', 'port': '443', 'protocol': 2, 'nick_type': 2, 'speed': 6.66, 'area': '英国', 'score': 50, 'disable_domains': []}
+2020-03-11 13:48:31 httpbin_validator.py [line:57] INFO: {'ip': '49.76.29.226', 'port': '8118', 'protocol': -1, 'nick_type': -1, 'speed': -1, 'area': '江苏无锡', 'score': 50, 'disable_domains': []}
+2020-03-11 13:48:32 httpbin_validator.py [line:57] INFO: {'ip': '183.145.216.103', 'port': '8118', 'protocol': -1, 'nick_type': -1, 'speed': -1, 'area': '浙江绍兴', 'score': 50, 'disable_domains': []}
+2020-03-11 13:48:38 httpbin_validator.py [line:57] INFO: {'ip': '101.109.21.79', 'port': '8080', 'protocol': -1, 'nick_type': -1, 'speed': -1, 'area': '泰国', 'score': 50, 'disable_domains': []}
+2020-03-11 13:48:41 httpbin_validator.py [line:57] INFO: {'ip': '222.95.144.32', 'port': '3000', 'protocol': -1, 'nick_type': -1, 'speed': -1, 'area': '江苏南京', 'score': 50, 'disable_domains': []}
+2020-03-11 13:48:41 httpbin_validator.py [line:57] INFO: {'ip': '117.88.4.159', 'port': '3000', 'protocol': -1, 'nick_type': -1, 'speed': -1, 'area': '江苏南京', 'score': 50, 'disable_domains': []}
+2020-03-11 13:48:42 httpbin_validator.py [line:57] INFO: {'ip': '190.18.207.58', 'port': '53281', 'protocol': -1, 'nick_type': -1, 'speed': -1, 'area': '阿根廷', 'score': 50, 'disable_domains': []}
+2020-03-11 13:48:43 httpbin_validator.py [line:57] INFO: {'ip': '103.14.36.218', 'port': '8080', 'protocol': -1, 'nick_type': -1, 'speed': -1, 'area': '蒙古', 'score': 50, 'disable_domains': []}
+2020-03-11 13:53:03 httpbin_validator.py [line:57] INFO: {'ip': '180.118.252.180', 'port': '8118', 'protocol': -1, 'nick_type': -1, 'speed': -1, 'area': '江苏镇江', 'score': 49, 'disable_domains': []}
+2020-03-11 13:53:04 httpbin_validator.py [line:57] INFO: {'ip': '118.78.196.186', 'port': '8118', 'protocol': 0, 'nick_type': 0, 'speed': 0.79, 'area': '山西运城', 'score': 49, 'disable_domains': []}
+2020-03-11 13:53:04 httpbin_validator.py [line:57] INFO: {'ip': '183.147.11.34', 'port': '8118', 'protocol': -1, 'nick_type': -1, 'speed': -1, 'area': '浙江金华', 'score': 49, 'disable_domains': []}
+2020-03-11 13:53:04 httpbin_validator.py [line:57] INFO: {'ip': '171.80.196.14', 'port': '8118', 'protocol': -1, 'nick_type': -1, 'speed': -1, 'area': '', 'score': 50, 'disable_domains': []}
+2020-03-11 13:53:04 httpbin_validator.py [line:57] INFO: {'ip': '183.145.216.103', 'port': '8118', 'protocol': -1, 'nick_type': -1, 'speed': -1, 'area': '浙江绍兴', 'score': 49, 'disable_domains': []}
+2020-03-11 13:53:05 httpbin_validator.py [line:57] INFO: {'ip': '49.76.29.226', 'port': '8118', 'protocol': 0, 'nick_type': 0, 'speed': 1.81, 'area': '江苏无锡', 'score': 49, 'disable_domains': []}
+2020-03-11 13:53:10 httpbin_validator.py [line:57] INFO: {'ip': '200.89.178.196', 'port': '80', 'protocol': 0, 'nick_type': 2, 'speed': 3.42, 'area': '阿根廷', 'score': 50, 'disable_domains': []}
+2020-03-11 13:53:14 httpbin_validator.py [line:57] INFO: {'ip': '122.51.70.36', 'port': '8080', 'protocol': 1, 'nick_type': 0, 'speed': 11.09, 'area': '广东省广州市', 'score': 49, 'disable_domains': []}
+2020-03-11 13:53:21 httpbin_validator.py [line:57] INFO: {'ip': '163.172.219.130', 'port': '443', 'protocol': 0, 'nick_type': 2, 'speed': 4.24, 'area': '英国', 'score': 50, 'disable_domains': []}
+2020-03-11 13:53:23 httpbin_validator.py [line:57] INFO: {'ip': '222.95.144.32', 'port': '3000', 'protocol': -1, 'nick_type': -1, 'speed': -1, 'area': '江苏南京', 'score': 49, 'disable_domains': []}
+2020-03-11 13:53:23 httpbin_validator.py [line:57] INFO: {'ip': '101.109.21.79', 'port': '8080', 'protocol': -1, 'nick_type': -1, 'speed': -1, 'area': '泰国', 'score': 49, 'disable_domains': []}
+2020-03-11 13:53:23 httpbin_validator.py [line:57] INFO: {'ip': '117.88.4.159', 'port': '3000', 'protocol': -1, 'nick_type': -1, 'speed': -1, 'area': '江苏南京', 'score': 49, 'disable_domains': []}
+2020-03-11 13:53:24 httpbin_validator.py [line:57] INFO: {'ip': '103.14.36.218', 'port': '8080', 'protocol': -1, 'nick_type': -1, 'speed': -1, 'area': '蒙古', 'score': 49, 'disable_domains': []}
+2020-03-11 13:53:27 httpbin_validator.py [line:57] INFO: {'ip': '190.18.207.58', 'port': '53281', 'protocol': -1, 'nick_type': -1, 'speed': -1, 'area': '阿根廷', 'score': 49, 'disable_domains': []}
+2020-03-11 14:03:28 httpbin_validator.py [line:57] INFO: {'ip': '49.76.29.226', 'port': '8118', 'protocol': -1, 'nick_type': -1, 'speed': -1, 'area': '江苏无锡', 'score': 50, 'disable_domains': []}
+2020-03-11 14:03:29 httpbin_validator.py [line:57] INFO: {'ip': '183.145.216.103', 'port': '8118', 'protocol': -1, 'nick_type': -1, 'speed': -1, 'area': '浙江绍兴', 'score': 48, 'disable_domains': []}
+2020-03-11 14:03:29 httpbin_validator.py [line:57] INFO: {'ip': '118.78.196.186', 'port': '8118', 'protocol': -1, 'nick_type': -1, 'speed': -1, 'area': '山西运城', 'score': 50, 'disable_domains': []}
+2020-03-11 14:03:31 httpbin_validator.py [line:57] INFO: {'ip': '180.118.252.180', 'port': '8118', 'protocol': -1, 'nick_type': -1, 'speed': -1, 'area': '江苏镇江', 'score': 48, 'disable_domains': []}
+2020-03-11 14:03:36 httpbin_validator.py [line:57] INFO: {'ip': '200.89.178.196', 'port': '80', 'protocol': 0, 'nick_type': 2, 'speed': 3.9, 'area': '阿根廷', 'score': 50, 'disable_domains': []}
+2020-03-11 14:03:37 httpbin_validator.py [line:57] INFO: {'ip': '183.147.11.34', 'port': '8118', 'protocol': -1, 'nick_type': -1, 'speed': -1, 'area': '浙江金华', 'score': 48, 'disable_domains': []}
+2020-03-11 14:03:39 httpbin_validator.py [line:57] INFO: {'ip': '171.80.196.14', 'port': '8118', 'protocol': -1, 'nick_type': -1, 'speed': -1, 'area': '', 'score': 49, 'disable_domains': []}
+2020-03-11 14:03:40 httpbin_validator.py [line:57] INFO: {'ip': '122.51.70.36', 'port': '8080', 'protocol': -1, 'nick_type': -1, 'speed': -1, 'area': '广东省广州市', 'score': 50, 'disable_domains': []}
+2020-03-11 14:03:46 httpbin_validator.py [line:57] INFO: {'ip': '101.109.21.79', 'port': '8080', 'protocol': -1, 'nick_type': -1, 'speed': -1, 'area': '泰国', 'score': 48, 'disable_domains': []}
+2020-03-11 14:03:48 httpbin_validator.py [line:57] INFO: {'ip': '222.95.144.32', 'port': '3000', 'protocol': -1, 'nick_type': -1, 'speed': -1, 'area': '江苏南京', 'score': 48, 'disable_domains': []}
+2020-03-11 14:03:48 httpbin_validator.py [line:57] INFO: {'ip': '117.88.4.159', 'port': '3000', 'protocol': -1, 'nick_type': -1, 'speed': -1, 'area': '江苏南京', 'score': 48, 'disable_domains': []}
+2020-03-11 14:03:50 httpbin_validator.py [line:57] INFO: {'ip': '163.172.219.130', 'port': '443', 'protocol': -1, 'nick_type': -1, 'speed': -1, 'area': '英国', 'score': 50, 'disable_domains': []}
+2020-03-11 14:03:51 httpbin_validator.py [line:57] INFO: {'ip': '103.14.36.218', 'port': '8080', 'protocol': -1, 'nick_type': -1, 'speed': -1, 'area': '蒙古', 'score': 48, 'disable_domains': []}
+2020-03-11 14:03:53 httpbin_validator.py [line:57] INFO: {'ip': '190.18.207.58', 'port': '53281', 'protocol': 1, 'nick_type': 0, 'speed': 14.34, 'area': '阿根廷', 'score': 48, 'disable_domains': []}
+2020-03-11 14:04:37 httpbin_validator.py [line:57] INFO: {'ip': '180.118.252.180', 'port': '8118', 'protocol': 0, 'nick_type': 0, 'speed': 0.85, 'area': '江苏镇江', 'score': 47, 'disable_domains': []}
+2020-03-11 14:04:37 httpbin_validator.py [line:57] INFO: {'ip': '49.76.29.226', 'port': '8118', 'protocol': -1, 'nick_type': -1, 'speed': -1, 'area': '江苏无锡', 'score': 49, 'disable_domains': []}
+2020-03-11 14:04:37 httpbin_validator.py [line:57] INFO: {'ip': '122.51.70.36', 'port': '8080', 'protocol': 0, 'nick_type': 0, 'speed': 1.49, 'area': '广东省广州市', 'score': 49, 'disable_domains': []}
+2020-03-11 14:04:38 httpbin_validator.py [line:57] INFO: {'ip': '118.78.196.186', 'port': '8118', 'protocol': -1, 'nick_type': -1, 'speed': -1, 'area': '山西运城', 'score': 49, 'disable_domains': []}
+2020-03-11 14:04:40 httpbin_validator.py [line:57] INFO: {'ip': '183.147.11.34', 'port': '8118', 'protocol': 0, 'nick_type': 0, 'speed': 3.48, 'area': '浙江金华', 'score': 47, 'disable_domains': []}
+2020-03-11 14:04:43 httpbin_validator.py [line:57] INFO: {'ip': '183.145.216.103', 'port': '8118', 'protocol': -1, 'nick_type': -1, 'speed': -1, 'area': '浙江绍兴', 'score': 47, 'disable_domains': []}
+2020-03-11 14:04:43 httpbin_validator.py [line:57] INFO: {'ip': '200.89.178.196', 'port': '80', 'protocol': 0, 'nick_type': 2, 'speed': 4.19, 'area': '阿根廷', 'score': 50, 'disable_domains': []}
+2020-03-11 14:04:56 httpbin_validator.py [line:57] INFO: {'ip': '222.95.144.32', 'port': '3000', 'protocol': -1, 'nick_type': -1, 'speed': -1, 'area': '江苏南京', 'score': 47, 'disable_domains': []}
+2020-03-11 14:04:56 httpbin_validator.py [line:57] INFO: {'ip': '171.80.196.14', 'port': '8118', 'protocol': -1, 'nick_type': -1, 'speed': -1, 'area': '', 'score': 48, 'disable_domains': []}
+2020-03-11 14:04:56 httpbin_validator.py [line:57] INFO: {'ip': '101.109.21.79', 'port': '8080', 'protocol': -1, 'nick_type': -1, 'speed': -1, 'area': '泰国', 'score': 47, 'disable_domains': []}
+2020-03-11 14:04:56 httpbin_validator.py [line:57] INFO: {'ip': '117.88.4.159', 'port': '3000', 'protocol': -1, 'nick_type': -1, 'speed': -1, 'area': '江苏南京', 'score': 47, 'disable_domains': []}
+2020-03-11 14:04:56 httpbin_validator.py [line:57] INFO: {'ip': '163.172.219.130', 'port': '443', 'protocol': 0, 'nick_type': 2, 'speed': 9.37, 'area': '英国', 'score': 49, 'disable_domains': []}
+2020-03-11 14:04:57 httpbin_validator.py [line:57] INFO: {'ip': '190.18.207.58', 'port': '53281', 'protocol': -1, 'nick_type': -1, 'speed': -1, 'area': '阿根廷', 'score': 50, 'disable_domains': []}
+2020-03-11 14:04:58 httpbin_validator.py [line:57] INFO: {'ip': '103.14.36.218', 'port': '8080', 'protocol': -1, 'nick_type': -1, 'speed': -1, 'area': '蒙古', 'score': 47, 'disable_domains': []}
+2020-03-11 15:03:27 _internal.py [line:113] INFO:  * Running on http://0.0.0.0:16888/ (Press CTRL+C to quit)
+2020-03-11 15:04:35 _internal.py [line:113] INFO: 127.0.0.1 - - [11/Mar/2020 15:04:35] "[37mGET /random?protocol=http HTTP/1.1[0m" 200 -
+2020-03-11 15:04:39 _internal.py [line:113] INFO: 127.0.0.1 - - [11/Mar/2020 15:04:39] "[37mGET /random?protocol=http HTTP/1.1[0m" 200 -
+2020-03-11 15:04:40 _internal.py [line:113] INFO: 127.0.0.1 - - [11/Mar/2020 15:04:40] "[37mGET /random?protocol=http HTTP/1.1[0m" 200 -
+2020-03-11 15:04:42 _internal.py [line:113] INFO: 127.0.0.1 - - [11/Mar/2020 15:04:42] "[37mGET /random?protocol=http HTTP/1.1[0m" 200 -
+2020-03-11 15:04:43 _internal.py [line:113] INFO: 127.0.0.1 - - [11/Mar/2020 15:04:43] "[37mGET /random?protocol=http HTTP/1.1[0m" 200 -
+2020-03-11 15:04:44 _internal.py [line:113] INFO: 127.0.0.1 - - [11/Mar/2020 15:04:44] "[37mGET /random?protocol=http HTTP/1.1[0m" 200 -
+2020-03-11 15:04:52 app.py [line:1891] ERROR: Exception on /random [GET]
+Traceback (most recent call last):
+  File "D:\IPProxyPool\venv\lib\site-packages\flask\app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "D:\IPProxyPool\venv\lib\site-packages\flask\app.py", line 1951, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "D:\IPProxyPool\venv\lib\site-packages\flask\app.py", line 1820, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "D:\IPProxyPool\venv\lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "D:\IPProxyPool\venv\lib\site-packages\flask\app.py", line 1949, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "D:\IPProxyPool\venv\lib\site-packages\flask\app.py", line 1935, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "D:/IPProxyPool/core/proxy_api.py", line 50, in random
+    proxy = self.mongo_pool.random_proxy(protocol,domain,count=PROXIES_MAX_COUNT)
+  File "D:\IPProxyPool\core\db\mongo_pool.py", line 122, in random_proxy
+    return random.choice(proxy_list)
+  File "D:\python\Anaconda\lib\random.py", line 261, in choice
+    raise IndexError('Cannot choose from an empty sequence') from None
+IndexError: Cannot choose from an empty sequence
+2020-03-11 15:04:52 _internal.py [line:113] INFO: 127.0.0.1 - - [11/Mar/2020 15:04:52] "[35m[1mGET /random?protocol=https HTTP/1.1[0m" 500 -
+2020-03-11 15:04:57 app.py [line:1891] ERROR: Exception on /random [GET]
+Traceback (most recent call last):
+  File "D:\IPProxyPool\venv\lib\site-packages\flask\app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "D:\IPProxyPool\venv\lib\site-packages\flask\app.py", line 1951, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "D:\IPProxyPool\venv\lib\site-packages\flask\app.py", line 1820, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "D:\IPProxyPool\venv\lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "D:\IPProxyPool\venv\lib\site-packages\flask\app.py", line 1949, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "D:\IPProxyPool\venv\lib\site-packages\flask\app.py", line 1935, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "D:/IPProxyPool/core/proxy_api.py", line 50, in random
+    proxy = self.mongo_pool.random_proxy(protocol,domain,count=PROXIES_MAX_COUNT)
+  File "D:\IPProxyPool\core\db\mongo_pool.py", line 122, in random_proxy
+    return random.choice(proxy_list)
+  File "D:\python\Anaconda\lib\random.py", line 261, in choice
+    raise IndexError('Cannot choose from an empty sequence') from None
+IndexError: Cannot choose from an empty sequence
+2020-03-11 15:04:57 _internal.py [line:113] INFO: 127.0.0.1 - - [11/Mar/2020 15:04:57] "[35m[1mGET /random?protocol=https HTTP/1.1[0m" 500 -
+2020-03-11 15:05:35 app.py [line:1891] ERROR: Exception on /random [GET]
+Traceback (most recent call last):
+  File "D:\IPProxyPool\venv\lib\site-packages\flask\app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "D:\IPProxyPool\venv\lib\site-packages\flask\app.py", line 1951, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "D:\IPProxyPool\venv\lib\site-packages\flask\app.py", line 1820, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "D:\IPProxyPool\venv\lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "D:\IPProxyPool\venv\lib\site-packages\flask\app.py", line 1949, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "D:\IPProxyPool\venv\lib\site-packages\flask\app.py", line 1935, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "D:/IPProxyPool/core/proxy_api.py", line 50, in random
+    proxy = self.mongo_pool.random_proxy(protocol,domain,count=PROXIES_MAX_COUNT)
+  File "D:\IPProxyPool\core\db\mongo_pool.py", line 122, in random_proxy
+    return random.choice(proxy_list)
+  File "D:\python\Anaconda\lib\random.py", line 261, in choice
+    raise IndexError('Cannot choose from an empty sequence') from None
+IndexError: Cannot choose from an empty sequence
+2020-03-11 15:05:35 _internal.py [line:113] INFO: 127.0.0.1 - - [11/Mar/2020 15:05:35] "[35m[1mGET /random HTTP/1.1[0m" 500 -
+2020-03-11 15:06:09 app.py [line:1891] ERROR: Exception on /random [GET]
+Traceback (most recent call last):
+  File "D:\IPProxyPool\venv\lib\site-packages\flask\app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "D:\IPProxyPool\venv\lib\site-packages\flask\app.py", line 1951, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "D:\IPProxyPool\venv\lib\site-packages\flask\app.py", line 1820, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "D:\IPProxyPool\venv\lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "D:\IPProxyPool\venv\lib\site-packages\flask\app.py", line 1949, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "D:\IPProxyPool\venv\lib\site-packages\flask\app.py", line 1935, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "D:/IPProxyPool/core/proxy_api.py", line 50, in random
+    proxy = self.mongo_pool.random_proxy(protocol,domain,count=PROXIES_MAX_COUNT)
+  File "D:\IPProxyPool\core\db\mongo_pool.py", line 122, in random_proxy
+    return random.choice(proxy_list)
+  File "D:\python\Anaconda\lib\random.py", line 261, in choice
+    raise IndexError('Cannot choose from an empty sequence') from None
+IndexError: Cannot choose from an empty sequence
+2020-03-11 15:06:09 _internal.py [line:113] INFO: 127.0.0.1 - - [11/Mar/2020 15:06:09] "[35m[1mGET /random HTTP/1.1[0m" 500 -
+2020-03-11 15:06:40 _internal.py [line:113] INFO:  * Running on http://0.0.0.0:16888/ (Press CTRL+C to quit)
+2020-03-11 15:06:44 app.py [line:1891] ERROR: Exception on /random [GET]
+Traceback (most recent call last):
+  File "D:\IPProxyPool\venv\lib\site-packages\flask\app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "D:\IPProxyPool\venv\lib\site-packages\flask\app.py", line 1951, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "D:\IPProxyPool\venv\lib\site-packages\flask\app.py", line 1820, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "D:\IPProxyPool\venv\lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "D:\IPProxyPool\venv\lib\site-packages\flask\app.py", line 1949, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "D:\IPProxyPool\venv\lib\site-packages\flask\app.py", line 1935, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "D:/IPProxyPool/core/proxy_api.py", line 50, in random
+    proxy = self.mongo_pool.random_proxy(protocol,domain,count=PROXIES_MAX_COUNT)
+  File "D:\IPProxyPool\core\db\mongo_pool.py", line 122, in random_proxy
+    return random.choice(proxy_list)
+  File "D:\python\Anaconda\lib\random.py", line 261, in choice
+    raise IndexError('Cannot choose from an empty sequence') from None
+IndexError: Cannot choose from an empty sequence
+2020-03-11 15:06:44 _internal.py [line:113] INFO: 127.0.0.1 - - [11/Mar/2020 15:06:44] "[35m[1mGET /random HTTP/1.1[0m" 500 -
+2020-03-11 15:09:04 _internal.py [line:113] INFO:  * Running on http://0.0.0.0:16888/ (Press CTRL+C to quit)
+2020-03-11 15:09:10 app.py [line:1891] ERROR: Exception on /random [GET]
+Traceback (most recent call last):
+  File "D:\IPProxyPool\venv\lib\site-packages\flask\app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "D:\IPProxyPool\venv\lib\site-packages\flask\app.py", line 1951, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "D:\IPProxyPool\venv\lib\site-packages\flask\app.py", line 1820, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "D:\IPProxyPool\venv\lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "D:\IPProxyPool\venv\lib\site-packages\flask\app.py", line 1949, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "D:\IPProxyPool\venv\lib\site-packages\flask\app.py", line 1935, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "D:/IPProxyPool/core/proxy_api.py", line 50, in random
+    proxy = self.mongo_pool.random_proxy(protocol,domain,count=PROXIES_MAX_COUNT)
+  File "D:\IPProxyPool\core\db\mongo_pool.py", line 122, in random_proxy
+    print(random.choice(proxy_list))
+  File "D:\python\Anaconda\lib\random.py", line 261, in choice
+    raise IndexError('Cannot choose from an empty sequence') from None
+IndexError: Cannot choose from an empty sequence
+2020-03-11 15:09:10 _internal.py [line:113] INFO: 127.0.0.1 - - [11/Mar/2020 15:09:10] "[35m[1mGET /random HTTP/1.1[0m" 500 -
+2020-03-11 15:09:48 _internal.py [line:113] INFO:  * Running on http://0.0.0.0:16888/ (Press CTRL+C to quit)
+2020-03-11 15:09:51 app.py [line:1891] ERROR: Exception on /random [GET]
+Traceback (most recent call last):
+  File "D:\IPProxyPool\venv\lib\site-packages\flask\app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "D:\IPProxyPool\venv\lib\site-packages\flask\app.py", line 1951, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "D:\IPProxyPool\venv\lib\site-packages\flask\app.py", line 1820, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "D:\IPProxyPool\venv\lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "D:\IPProxyPool\venv\lib\site-packages\flask\app.py", line 1949, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "D:\IPProxyPool\venv\lib\site-packages\flask\app.py", line 1935, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "D:/IPProxyPool/core/proxy_api.py", line 50, in random
+    proxy = self.mongo_pool.random_proxy(protocol,domain,count=PROXIES_MAX_COUNT)
+  File "D:\IPProxyPool\core\db\mongo_pool.py", line 123, in random_proxy
+    print(random.choice(proxy_list))
+  File "D:\python\Anaconda\lib\random.py", line 261, in choice
+    raise IndexError('Cannot choose from an empty sequence') from None
+IndexError: Cannot choose from an empty sequence
+2020-03-11 15:09:51 _internal.py [line:113] INFO: 127.0.0.1 - - [11/Mar/2020 15:09:51] "[35m[1mGET /random HTTP/1.1[0m" 500 -
+2020-03-11 15:13:04 _internal.py [line:113] INFO:  * Running on http://0.0.0.0:16888/ (Press CTRL+C to quit)
+2020-03-11 15:13:13 app.py [line:1891] ERROR: Exception on /random [GET]
+Traceback (most recent call last):
+  File "D:\IPProxyPool\venv\lib\site-packages\flask\app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "D:\IPProxyPool\venv\lib\site-packages\flask\app.py", line 1951, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "D:\IPProxyPool\venv\lib\site-packages\flask\app.py", line 1820, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "D:\IPProxyPool\venv\lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "D:\IPProxyPool\venv\lib\site-packages\flask\app.py", line 1949, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "D:\IPProxyPool\venv\lib\site-packages\flask\app.py", line 1935, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "D:/IPProxyPool/core/proxy_api.py", line 50, in random
+    proxy = self.mongo_pool.random_proxy(protocol=protocol,domain=domain,count=PROXIES_MAX_COUNT)
+  File "D:\IPProxyPool\core\db\mongo_pool.py", line 123, in random_proxy
+    print(random.choice(proxy_list))
+  File "D:\python\Anaconda\lib\random.py", line 261, in choice
+    raise IndexError('Cannot choose from an empty sequence') from None
+IndexError: Cannot choose from an empty sequence
+2020-03-11 15:13:13 _internal.py [line:113] INFO: 127.0.0.1 - - [11/Mar/2020 15:13:13] "[35m[1mGET /random HTTP/1.1[0m" 500 -
+2020-03-11 15:19:30 _internal.py [line:113] INFO:  * Running on http://0.0.0.0:16888/ (Press CTRL+C to quit)
+2020-03-11 15:20:02 app.py [line:1891] ERROR: Exception on /random [GET]
+Traceback (most recent call last):
+  File "D:\IPProxyPool\venv\lib\site-packages\flask\app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "D:\IPProxyPool\venv\lib\site-packages\flask\app.py", line 1951, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "D:\IPProxyPool\venv\lib\site-packages\flask\app.py", line 1820, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "D:\IPProxyPool\venv\lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "D:\IPProxyPool\venv\lib\site-packages\flask\app.py", line 1949, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "D:\IPProxyPool\venv\lib\site-packages\flask\app.py", line 1935, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "D:/IPProxyPool/core/proxy_api.py", line 50, in random
+    proxy = self.mongo_pool.random_proxy(protocol,domain,count=PROXIES_MAX_COUNT)
+  File "D:\IPProxyPool\core\db\mongo_pool.py", line 123, in random_proxy
+    print(random.choice(proxy_list))
+  File "D:\python\Anaconda\lib\random.py", line 261, in choice
+    raise IndexError('Cannot choose from an empty sequence') from None
+IndexError: Cannot choose from an empty sequence
+2020-03-11 15:20:02 _internal.py [line:113] INFO: 127.0.0.1 - - [11/Mar/2020 15:20:02] "[35m[1mGET /random?protocol=https HTTP/1.1[0m" 500 -
+2020-03-11 15:20:06 _internal.py [line:113] INFO: 127.0.0.1 - - [11/Mar/2020 15:20:06] "[37mGET /random?protocol=http HTTP/1.1[0m" 200 -
+2020-03-11 15:20:23 app.py [line:1891] ERROR: Exception on /random [GET]
+Traceback (most recent call last):
+  File "D:\IPProxyPool\venv\lib\site-packages\flask\app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "D:\IPProxyPool\venv\lib\site-packages\flask\app.py", line 1951, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "D:\IPProxyPool\venv\lib\site-packages\flask\app.py", line 1820, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "D:\IPProxyPool\venv\lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "D:\IPProxyPool\venv\lib\site-packages\flask\app.py", line 1949, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "D:\IPProxyPool\venv\lib\site-packages\flask\app.py", line 1935, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "D:/IPProxyPool/core/proxy_api.py", line 50, in random
+    proxy = self.mongo_pool.random_proxy(protocol,domain,count=PROXIES_MAX_COUNT)
+  File "D:\IPProxyPool\core\db\mongo_pool.py", line 121, in random_proxy
+    proxy_list = self.get_proxies(protocol=protocol,domain=domain,count=count,nick_type=nick_type)
+  File "D:\IPProxyPool\core\db\mongo_pool.py", line 108, in get_proxies
+    conditions['disable_domains'] = {'$nin', [domain]}
+TypeError: unhashable type: 'list'
+2020-03-11 15:20:23 _internal.py [line:113] INFO: 127.0.0.1 - - [11/Mar/2020 15:20:23] "[35m[1mGET /random?protocol=http&domain=jd.com HTTP/1.1[0m" 500 -
+2020-03-11 15:28:09 _internal.py [line:113] INFO:  * Running on http://0.0.0.0:16888/ (Press CTRL+C to quit)
+2020-03-11 15:28:46 _internal.py [line:113] INFO: 127.0.0.1 - - [11/Mar/2020 15:28:46] "[37mGET /proxies?protocol=http HTTP/1.1[0m" 200 -
+2020-03-11 15:28:55 _internal.py [line:113] INFO: 127.0.0.1 - - [11/Mar/2020 15:28:55] "[37mGET /proxies?protocol=https HTTP/1.1[0m" 200 -
+2020-03-11 15:29:01 _internal.py [line:113] INFO: 127.0.0.1 - - [11/Mar/2020 15:29:01] "[37mGET /proxies?protocol=http HTTP/1.1[0m" 200 -
+2020-03-11 15:29:22 _internal.py [line:113] INFO: 127.0.0.1 - - [11/Mar/2020 15:29:22] "[37mGET /proxies?protocol=http HTTP/1.1[0m" 200 -
+2020-03-11 15:29:23 _internal.py [line:113] INFO: 127.0.0.1 - - [11/Mar/2020 15:29:23] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2020-03-11 15:30:17 _internal.py [line:113] INFO: 127.0.0.1 - - [11/Mar/2020 15:30:17] "[37mGET /proxies?protocol=http HTTP/1.1[0m" 200 -
+2020-03-11 15:30:28 _internal.py [line:113] INFO: 127.0.0.1 - - [11/Mar/2020 15:30:28] "[37mGET /proxies HTTP/1.1[0m" 200 -
+2020-03-11 15:36:41 _internal.py [line:113] INFO:  * Running on http://0.0.0.0:16888/ (Press CTRL+C to quit)
+2020-03-11 15:36:56 _internal.py [line:113] INFO: 127.0.0.1 - - [11/Mar/2020 15:36:56] "[37mGET /disable_domain HTTP/1.1[0m" 200 -

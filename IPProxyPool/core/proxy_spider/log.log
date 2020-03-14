@@ -1,0 +1,23 @@
+2020-03-10 14:37:11 mongo_pool.py [line:43] INFO: 插入新的代理{'ip': '222.95.144.32', 'port': '3000', 'protocol': 2, 'nick_type': 0, 'speed': 2.09, 'area': '江苏南京', 'score': 50, 'disable_domains': [], '_id': '222.95.144.32'}
+2020-03-10 14:37:25 mongo_pool.py [line:43] INFO: 插入新的代理{'ip': '183.147.11.34', 'port': '8118', 'protocol': 0, 'nick_type': 0, 'speed': 0.51, 'area': '浙江金华', 'score': 50, 'disable_domains': [], '_id': '183.147.11.34'}
+2020-03-10 14:37:26 mongo_pool.py [line:43] INFO: 插入新的代理{'ip': '180.118.252.180', 'port': '8118', 'protocol': 0, 'nick_type': 0, 'speed': 0.54, 'area': '江苏镇江', 'score': 50, 'disable_domains': [], '_id': '180.118.252.180'}
+2020-03-10 14:56:11 mongo_pool.py [line:45] WARNING: 已经存在的代理：{'ip': '222.95.144.32', 'port': '3000', 'protocol': 2, 'nick_type': 0, 'speed': 0.45, 'area': '江苏南京', 'score': 50, 'disable_domains': []}
+2020-03-10 14:56:13 mongo_pool.py [line:43] INFO: 插入新的代理{'ip': '171.80.196.14', 'port': '8118', 'protocol': 0, 'nick_type': 0, 'speed': 1.47, 'area': '', 'score': 50, 'disable_domains': [], '_id': '171.80.196.14'}
+2020-03-10 14:56:14 mongo_pool.py [line:43] INFO: 插入新的代理{'ip': '49.76.29.226', 'port': '8118', 'protocol': 0, 'nick_type': 0, 'speed': 0.65, 'area': '江苏无锡', 'score': 50, 'disable_domains': [], '_id': '49.76.29.226'}
+2020-03-10 14:56:27 mongo_pool.py [line:43] INFO: 插入新的代理{'ip': '101.109.21.79', 'port': '8080', 'protocol': 2, 'nick_type': 2, 'speed': 8.23, 'area': '泰国', 'score': 50, 'disable_domains': [], '_id': '101.109.21.79'}
+2020-03-10 14:57:21 mongo_pool.py [line:43] INFO: 插入新的代理{'ip': '122.51.70.36', 'port': '8080', 'protocol': 0, 'nick_type': 0, 'speed': 2.83, 'area': '广东省广州市', 'score': 50, 'disable_domains': [], '_id': '122.51.70.36'}
+2020-03-10 15:17:21 __init__.py [line:465] INFO: Running job Every 2 seconds do task() (last run: [never], next run: 2020-03-10 15:17:21)
+2020-03-10 15:17:23 __init__.py [line:465] INFO: Running job Every 2 seconds do task() (last run: 2020-03-10 15:17:21, next run: 2020-03-10 15:17:23)
+2020-03-10 15:17:25 __init__.py [line:465] INFO: Running job Every 2 seconds do task() (last run: 2020-03-10 15:17:23, next run: 2020-03-10 15:17:25)
+2020-03-10 15:17:27 __init__.py [line:465] INFO: Running job Every 2 seconds do task() (last run: 2020-03-10 15:17:25, next run: 2020-03-10 15:17:27)
+2020-03-10 15:40:42 mongo_pool.py [line:43] INFO: 插入新的代理{'ip': '118.78.196.186', 'port': '8118', 'protocol': 0, 'nick_type': 0, 'speed': 1.75, 'area': '山西运城', 'score': 50, 'disable_domains': [], '_id': '118.78.196.186'}
+2020-03-10 15:40:53 mongo_pool.py [line:45] WARNING: 已经存在的代理：{'ip': '101.109.21.79', 'port': '8080', 'protocol': 0, 'nick_type': 2, 'speed': 12.58, 'area': '泰国', 'score': 50, 'disable_domains': []}
+2020-03-10 15:41:04 mongo_pool.py [line:43] INFO: 插入新的代理{'ip': '117.88.4.159', 'port': '3000', 'protocol': 0, 'nick_type': 0, 'speed': 0.42, 'area': '江苏南京', 'score': 50, 'disable_domains': [], '_id': '117.88.4.159'}
+2020-03-10 15:41:25 mongo_pool.py [line:43] INFO: 插入新的代理{'ip': '183.145.216.103', 'port': '8118', 'protocol': 0, 'nick_type': 0, 'speed': 1.5, 'area': '浙江绍兴', 'score': 50, 'disable_domains': [], '_id': '183.145.216.103'}
+2020-03-10 15:41:29 mongo_pool.py [line:45] WARNING: 已经存在的代理：{'ip': '122.51.70.36', 'port': '8080', 'protocol': 0, 'nick_type': 0, 'speed': 0.55, 'area': '广东省广州市', 'score': 50, 'disable_domains': []}
+2020-03-10 15:41:38 mongo_pool.py [line:45] WARNING: 已经存在的代理：{'ip': '222.95.144.32', 'port': '3000', 'protocol': 2, 'nick_type': 0, 'speed': 7.17, 'area': '江苏南京', 'score': 50, 'disable_domains': []}
+2020-03-10 15:41:44 mongo_pool.py [line:45] WARNING: 已经存在的代理：{'ip': '171.80.196.14', 'port': '8118', 'protocol': 0, 'nick_type': 0, 'speed': 3.21, 'area': '', 'score': 50, 'disable_domains': []}
+2020-03-10 15:41:51 mongo_pool.py [line:43] INFO: 插入新的代理{'ip': '190.18.207.58', 'port': '53281', 'protocol': 0, 'nick_type': 0, 'speed': 10.94, 'area': '阿根廷', 'score': 50, 'disable_domains': [], '_id': '190.18.207.58'}
+2020-03-10 15:42:23 mongo_pool.py [line:43] INFO: 插入新的代理{'ip': '163.172.219.130', 'port': '443', 'protocol': 0, 'nick_type': 2, 'speed': 1.28, 'area': '英国', 'score': 50, 'disable_domains': [], '_id': '163.172.219.130'}
+2020-03-10 15:42:30 mongo_pool.py [line:43] INFO: 插入新的代理{'ip': '200.89.178.196', 'port': '80', 'protocol': 0, 'nick_type': 2, 'speed': 2.01, 'area': '阿根廷', 'score': 50, 'disable_domains': [], '_id': '200.89.178.196'}
+2020-03-10 15:44:06 mongo_pool.py [line:43] INFO: 插入新的代理{'ip': '103.14.36.218', 'port': '8080', 'protocol': 1, 'nick_type': 0, 'speed': 5.2, 'area': '蒙古', 'score': 50, 'disable_domains': [], '_id': '103.14.36.218'}

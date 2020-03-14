@@ -1,0 +1,14 @@
+2020-03-08 14:28:55 mongo_pool.py [line:41] INFO: 插入新的代理{'ip': '218.27.136.169', 'port': '8085', 'protocol': -1, 'nick_type': -1, 'speed': -1, 'score': 50, 'disable_domains': [], '_id': '218.27.136.169'}
+2020-03-08 14:29:03 mongo_pool.py [line:43] WARNING: 已经存在的代理：{'ip': '218.27.136.169', 'port': '8085', 'protocol': -1, 'nick_type': -1, 'speed': -1, 'score': 50, 'disable_domains': []}
+2020-03-08 14:39:42 mongo_pool.py [line:43] WARNING: 已经存在的代理：{'ip': '218.27.136.169', 'port': '8085', 'protocol': -1, 'nick_type': -1, 'speed': -1, 'score': 50, 'disable_domains': []}
+2020-03-08 14:40:24 mongo_pool.py [line:43] WARNING: 已经存在的代理：{'ip': '218.27.136.169', 'port': '8085', 'protocol': -1, 'nick_type': -1, 'speed': -1, 'score': 50, 'disable_domains': []}
+2020-03-08 14:47:40 mongo_pool.py [line:52] INFO: 删除代理IP：{'ip': '218.27.136.169', 'port': '8888', 'protocol': -1, 'nick_type': -1, 'speed': -1, 'score': 50, 'disable_domains': []}
+2020-03-08 14:47:50 mongo_pool.py [line:41] INFO: 插入新的代理{'ip': '218.27.136.169', 'port': '8085', 'protocol': -1, 'nick_type': -1, 'speed': -1, 'score': 50, 'disable_domains': [], '_id': '218.27.136.169'}
+2020-03-08 14:48:04 mongo_pool.py [line:41] INFO: 插入新的代理{'ip': '218.27.136.170', 'port': '8085', 'protocol': -1, 'nick_type': -1, 'speed': -1, 'score': 50, 'disable_domains': [], '_id': '218.27.136.170'}
+2020-03-08 15:29:30 mongo_pool.py [line:43] WARNING: 已经存在的代理：{'ip': '218.27.136.169', 'port': '8888', 'protocol': 0, 'nick_type': 1, 'speed': 8, 'score': 50, 'disable_domains': ['jd.com']}
+2020-03-08 15:30:00 mongo_pool.py [line:52] INFO: 删除代理IP：{'ip': '218.27.136.169', 'port': '8888', 'protocol': -1, 'nick_type': -1, 'speed': -1, 'score': 50, 'disable_domains': []}
+2020-03-08 15:30:10 mongo_pool.py [line:41] INFO: 插入新的代理{'ip': '218.27.136.169', 'port': '8888', 'protocol': 0, 'nick_type': 1, 'speed': 8, 'score': 50, 'disable_domains': ['jd.com'], '_id': '218.27.136.169'}
+2020-03-08 15:30:16 mongo_pool.py [line:41] INFO: 插入新的代理{'ip': '218.27.136.168', 'port': '8888', 'protocol': 1, 'nick_type': 2, 'speed': 7, 'score': 50, 'disable_domains': ['taobao.com'], '_id': '218.27.136.168'}
+2020-03-08 15:30:22 mongo_pool.py [line:41] INFO: 插入新的代理{'ip': '218.27.136.167', 'port': '8888', 'protocol': 0, 'nick_type': 2, 'speed': 6, 'score': 50, 'disable_domains': ['tianmao.com'], '_id': '218.27.136.167'}
+2020-03-08 15:30:29 mongo_pool.py [line:41] INFO: 插入新的代理{'ip': '218.27.136.166', 'port': '8888', 'protocol': 1, 'nick_type': 1, 'speed': 5, 'score': 50, 'disable_domains': ['baodu.com'], '_id': '218.27.136.166'}
+2020-03-08 15:52:59 mongo_pool.py [line:41] INFO: 插入新的代理{'ip': '218.27.136.165', 'port': '8888', 'protocol': 2, 'nick_type': 1, 'speed': 5, 'score': 50, 'disable_domains': ['baodu.com'], '_id': '218.27.136.165'}
